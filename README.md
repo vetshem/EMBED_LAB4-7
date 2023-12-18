@@ -1,4 +1,4 @@
-## Ось відоси:
+## Ось відоси і деякі коментарі:
 
 
 ### Лабараторна робота 4:
@@ -11,6 +11,7 @@ https://youtube.com/shorts/bgcTiv29nXM?si=fO-rxIYPWobHWlsg
 https://youtube.com/shorts/Klefyc-q9-U?si=8uEVmMbqeuHFMLKD
 
 ### Лабараторна робота 5:
+В файлі логічного аналізатора можна побачити навіть символи, які вводились з клавіатури при його записі.
 
 https://youtube.com/shorts/TVm0thclnx0?si=tToA_uuR6KtwbTmj
 
